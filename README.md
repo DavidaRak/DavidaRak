@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DavidaRak
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning and trying to design Dashboards 
-- 💞️ I’m looking to collaborate with people who have the same goals as me 
+
 
 
 
